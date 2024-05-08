@@ -45,7 +45,7 @@ php -S localhost:8000
 Soon (in the first chapter), we'll make some changes, and you'll eventually change
 your URL to go to just `http://localhost:8000`.
 
-## Folder Structure (Andrew Farquharson)
+## Folder Structure (AF)
 * ~/My_Symfony/SymfonyCasts/April-2024/Twig/This Repository
 * Delete any .git directory in the root of the start directory
 * This is to prevent nested git repos. The 'top-level' repository will comply with sub-folder .gitignore files 
